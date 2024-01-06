@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #16161a;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #fffffe;
+}
+
+a,
+p,
+span {
+  color: #94a1b2;
+}
+
+button {
+  background-color: #7f5af0;
+  color: #fffffe;
+}

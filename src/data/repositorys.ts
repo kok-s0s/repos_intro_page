@@ -29,4 +29,18 @@ export const repositorys: Repository[] = [
     stacks: ['Rust', 'Web'],
     imageUrl: '',
   },
+  {
+    name: 'commit-check',
+    link: 'https://github.com/kok-s0s/commit-check',
+    description: 'Git Check',
+    stacks: ['C++', 'ImGui'],
+    imageUrl: '',
+  },
+  {
+    name: 'rlang',
+    link: 'https://github.com/kok-s0s/rlang',
+    description: 'RLang VSCode Extension',
+    stacks: ['TypeScript', 'VSCode'],
+    imageUrl: '',
+  }
 ]
